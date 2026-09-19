@@ -9,11 +9,18 @@ A responsive and modern Sign Up page built with **HTML, CSS, and JavaScript**.
 ## 📸 Screenshot
 
 🖥️ Desktop
-![Sign Up Page](Screenshot-Desktop.png)
+
+<br>
+
+<img src="Screenshot-Desktop.png" alt="Sign Up Page - Desktop" width="700">
+
+<br><br>
 
 📱 Mobile
-![Sign Up Page](Screenshot-Mobile.png)
 
+<br>
+
+<img src="Screenshot-Mobile.png" alt="Sign Up Page - Mobile" width="350">
 ## ✨ Features
 
 * Responsive design for different screen sizes
