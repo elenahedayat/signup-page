@@ -8,10 +8,10 @@ A responsive and modern Sign Up page built with **HTML, CSS, and JavaScript**.
 
 ## 📸 Screenshot
 
-Desktop
+🖥️ Desktop
 ![Sign Up Page](Screenshot-Desktop.png)
 
-Mobile
+📱 Mobile
 ![Sign Up Page](Screenshot-Mobile.png)
 
 ## ✨ Features
